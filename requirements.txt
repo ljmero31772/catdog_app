@@ -1,3 +1,4 @@
 pip
 tensorflow
 opencv-python==3.4.0.14
+streamlit
