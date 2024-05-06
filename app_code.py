@@ -2,11 +2,7 @@
 import streamlit as st
 import os
 from PIL import Image
-try:
-    import cv2
-except:
-    !pip install cv2
-    import cv2
+import cv2
 import numpy as np
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense, Conv2D, Dropout, Flatten, MaxPooling2D
