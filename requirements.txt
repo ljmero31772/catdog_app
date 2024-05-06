@@ -1,4 +1,3 @@
 pip
 tensorflow
 opencv-python==3.4.0.14
-numpy==1.18.0
